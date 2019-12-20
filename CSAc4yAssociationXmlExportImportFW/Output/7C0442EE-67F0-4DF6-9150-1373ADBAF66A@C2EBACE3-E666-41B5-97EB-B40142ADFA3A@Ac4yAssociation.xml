@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>336</Id>
+  <OriginID>1019</OriginID>
+  <OriginGUID>7C0442EE-67F0-4DF6-9150-1373ADBAF66A</OriginGUID>
+  <OriginTemplateID>1014</OriginTemplateID>
+  <OriginTemplateGUID>C2EBACE3-E666-41B5-97EB-B40142ADFA3A</OriginTemplateGUID>
+  <TargetID>1017</TargetID>
+  <TargetGUID>81ECB30D-83D9-4404-BAB7-D8B1F8481D6A</TargetGUID>
+  <TargetTemplateID>1016</TargetTemplateID>
+  <TargetTemplateGUID>4F577029-6EBA-4DF9-8103-28CF15B760A8</TargetTemplateGUID>
+  <AssociationPathID>1018</AssociationPathID>
+  <AssociationPathGUID>3ABE805C-C8E1-4001-86CE-D13EB3803463</AssociationPathGUID>
+  <ActualityID>0</ActualityID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

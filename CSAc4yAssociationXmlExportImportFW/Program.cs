@@ -1,14 +1,7 @@
 ﻿
 using System;
-using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml;
-using System.Xml.Serialization;
 
 namespace CSAc4yAssociationXmlExportImportFW
 {
@@ -21,7 +14,7 @@ namespace CSAc4yAssociationXmlExportImportFW
         public static SqlConnection sqlConnection = new SqlConnection(ConfigurationManager.AppSettings["conneectionString"]);
         public static SqlConnection sqlConnectionXML = new SqlConnection(ConfigurationManager.AppSettings["connectionStringXML"]);
         public static string TemplateName = ConfigurationManager.AppSettings["TemplateName"];
-        public static string outPath = ConfigurationManager.AppSettings["Path"];
+        public static string outputPath  = ConfigurationManager.AppSettings["OutputPath"];
         public static string defaultPath = ConfigurationManager.AppSettings["DefaultPath"];
         public static string outPathProcess = defaultPath + ConfigurationManager.AppSettings["PathProcess"];
         public static string outPathSuccess = defaultPath + ConfigurationManager.AppSettings["PathSuccess"];
@@ -31,7 +24,7 @@ namespace CSAc4yAssociationXmlExportImportFW
         {
             try
             {
-                SaveToFileSysAssociationFW saveToFileSysAssociationFW = new SaveToFileSysAssociationFW(connectionString, TemplateName, outPath, outPathProcess, outPathSuccess, outPathError);
+                SaveToFileSysAssociationFW saveToFileSysAssociationFW = new SaveToFileSysAssociationFW(connectionString, TemplateName, outputPath, outPathProcess, outPathSuccess, outPathError);
 
                 saveToFileSysAssociationFW.WriteOutAc4yAssociationAll();
                 /*

@@ -33,23 +33,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CSAc4yFW">
-      <HintPath>..\..\..\..\Library\LPCSharp\CSAc4yFW.dll</HintPath>
-    </Reference>
     <Reference Include="CSAc4yObjectDBCapFW">
-      <HintPath>..\..\..\..\Library\LPCSharp\CSAc4yObjectDBCapFW.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\library\LPCsharp\CSAc4yObjectDBCapFW.dll</HintPath>
     </Reference>
     <Reference Include="CSAc4yObjectObjectServiceFW">
-      <HintPath>..\..\..\..\Library\LPCSharp\CSAc4yObjectObjectServiceFW.dll</HintPath>
-    </Reference>
-    <Reference Include="CSAc4yObjectServiceWF">
-      <HintPath>..\..\..\..\Library\LPCSharp\CSAc4yObjectServiceWF.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\library\LPCsharp\CSAc4yObjectObjectServiceFW.dll</HintPath>
     </Reference>
     <Reference Include="CSAc4yServiceFW">
-      <HintPath>..\..\..\..\Library\LPCSharp\CSAc4yServiceFW.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\library\LPCsharp\CSAc4yServiceFW.dll</HintPath>
     </Reference>
     <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -73,6 +68,9 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Output\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

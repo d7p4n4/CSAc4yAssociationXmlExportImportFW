@@ -6,12 +6,14 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace CSAc4yAssociationXmlExportImportFW
+namespace CSAc4yAssociationXmlExportImport
 {
-    public class SaveToFileSysAssociationFW
+
+    public class SaveToFileSys
     {
 
-        public SqlConnection sqlConnection;
+        public SqlConnection _sqlConnection;
+
         public string sqlConnectionString;
         public string TemplateName;
         public string outPath;
@@ -20,9 +22,9 @@ namespace CSAc4yAssociationXmlExportImportFW
         public string outPathSuccess;
         public string outPathError;
 
-        public SaveToFileSysAssociationFW() { }
+        public SaveToFileSys() { }
 
-        public SaveToFileSysAssociationFW(string newSqlConn, string newTemp, string newOut, string newProc, string newSucc, string newErr)
+        public SaveToFileSys(string newSqlConn, string newTemp, string newOut, string newProc, string newSucc, string newErr)
         {
             sqlConnectionString = newSqlConn;
             TemplateName = newTemp;
@@ -31,41 +33,59 @@ namespace CSAc4yAssociationXmlExportImportFW
             outPathSuccess = newSucc;
             outPathError = newErr;
 
-            sqlConnection = new SqlConnection(sqlConnectionString);
-            sqlConnection.Open();
+            _sqlConnection = new SqlConnection(sqlConnectionString);
+            _sqlConnection.Open();
         }
         
-        public SaveToFileSysAssociationFW(string newSqlConn, string newOut)
+        public SaveToFileSys(string newSqlConn, string newOut)
         {
             sqlConnectionString = newSqlConn;
             outPath = newOut;
 
-            sqlConnection = new SqlConnection(sqlConnectionString);
-            sqlConnection.Open();
+            _sqlConnection = new SqlConnection(sqlConnectionString);
+            _sqlConnection.Open();
         }
 
-        public void WriteOutAc4yAssociationAll()
+        public SaveToFileSys(SqlConnection sqlConnection)
         {
+            _sqlConnection = sqlConnection;
+        }
+
+        public void ExportAllInstances(string outputPath)
+        {
+
+            if (String.IsNullOrEmpty(outputPath))
+                throw new Exception("OUTPUTPATH nem lehet üres!");
+
             Ac4yAssociationObjectService.ListInstanceResponse listInstanceResponse =
-                new Ac4yAssociationObjectService(sqlConnection).ListInstance(
+                new Ac4yAssociationObjectService(_sqlConnection).ListInstance(
                     new Ac4yAssociationObjectService.ListInstanceRequest() { }
                 );
+
+            if (listInstanceResponse.Result.Fail())
+                throw new Exception(listInstanceResponse.Result.Message);
 
             foreach (var element in listInstanceResponse.Ac4yAssociationList)
             {
                 string xml = serialize(element, typeof(Ac4yAssociation));
 
-                writeOut(xml, element.OriginGUID + "@" + element.OriginTemplateGUID + "@Ac4yAssociation", outPath);
+                //WriteOut(xml, element.OriginGUID + "@" + element.OriginTemplateGUID + "@Ac4yAssociation", outPath);
+                WriteOut(xml, element.GUID + "@Ac4yAssociation", outputPath);
             }
 
-        }
+        } // ExportAllInstances
 
-
-        public static void writeOut(string text, string fileName, string outputPath)
+        public static void WriteOut(string text, string fileName, string outputPath)
         {
+
+            log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType).Debug(fileName);
+
+            if (!Directory.Exists(outputPath))
+                Directory.CreateDirectory(outputPath);
+
             File.WriteAllText(outputPath + fileName + ".xml", text);
 
-        }
+        } // WriteOut
 
         public string serialize(Object taroltEljaras, Type anyType)
         {
@@ -142,7 +162,7 @@ namespace CSAc4yAssociationXmlExportImportFW
             return result;
         }
 
-        public string readIn(string fileName, string path)
+        public string ReadIn(string fileName, string path)
         {
 
             string textFile = path + fileName + ".xml";
@@ -151,7 +171,8 @@ namespace CSAc4yAssociationXmlExportImportFW
 
             return text;
 
+        } // ReadIn
 
-        }
-    }
-}
+    } // SaveToFileSysAssociation
+
+} // CSAc4yAssociationXmlExportImport

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1234</Id>
+  <GUID>A93A4F06-BEE3-4B55-82ED-FF13947B4B06</GUID>
+  <HumanId>Ugy_Kezeles.Személyadatok lekérdezése azonosító alapján</HumanId>
+  <PublicHumanId>Személyadatok lekérdezése azonosító alapján</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.SZEMELYADATOKLEKERDEZESEAZONOSITOALAPJAN</SimpledHumanId>
+  <TemplateId>1058</TemplateId>
+  <TemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TemplateGUID>
+  <TemplateHumanId>Metódus</TemplateHumanId>
+  <TemplatePublicHumanId>Metódus</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>METODUS</TemplateSimpledHumanId>
+  <AssociationId>805</AssociationId>
+  <AssociationGUID>C9F67F28-4420-4948-9ACC-CFD8B0552AA4</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>

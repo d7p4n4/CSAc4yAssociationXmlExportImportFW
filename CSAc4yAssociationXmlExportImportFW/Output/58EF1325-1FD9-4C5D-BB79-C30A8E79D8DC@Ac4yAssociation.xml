@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>790</Id>
+  <GUID>58EF1325-1FD9-4C5D-BB79-C30A8E79D8DC</GUID>
+  <OriginId>20</OriginId>
+  <OriginGUID>22802AAA-C3A2-457C-9F56-2F08E569D993</OriginGUID>
+  <OriginHumanId>Tor_Bankszamla_Kezeles</OriginHumanId>
+  <OriginPublicHumanId>Tor_Bankszamla_Kezeles</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORBANKSZAMLAKEZELES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1114</TargetId>
+  <TargetGUID>D2924D1E-8FC4-4A71-9394-9CA8241584EA</TargetGUID>
+  <TargetHumanId>Tor_Bankszamla_Kezeles.TOROL</TargetHumanId>
+  <TargetPublicHumanId>TOROL</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORBANKSZAMLAKEZELES.TOROL</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1066</TargetTemplateId>
+  <TargetTemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TargetTemplateGUID>
+  <TargetTemplateHumanId>Muvelet</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Muvelet</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>MUVELET</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1117</AssociationPathId>
+  <AssociationPathGUID>2C33183F-5E29-428C-B434-D81952CEF438</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.muvelet</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>muvelet</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.MUVELET</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>5</OrderNumber>
+</Ac4yAssociation>

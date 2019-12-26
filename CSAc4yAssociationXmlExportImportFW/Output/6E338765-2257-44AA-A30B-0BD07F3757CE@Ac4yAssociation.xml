@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>748</Id>
+  <GUID>6E338765-2257-44AA-A30B-0BD07F3757CE</GUID>
+  <OriginId>943</OriginId>
+  <OriginGUID>743D1EA1-FE8F-4CE5-A050-BA0D186D6BC9</OriginGUID>
+  <OriginHumanId>Tor_AjandekUtalvany</OriginHumanId>
+  <OriginPublicHumanId>Tor_AjandekUtalvany</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORAJANDEKUTALVANY</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1208</TargetId>
+  <TargetGUID>98F2E851-8F5F-4494-BCE4-82EACD9F168A</TargetGUID>
+  <TargetHumanId>Tor_AjandekUtalvany.Személyi adatok lekérdezése</TargetHumanId>
+  <TargetPublicHumanId>Személyi adatok lekérdezése</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORAJANDEKUTALVANY.SZEMELYIADATOKLEKERDEZESE</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1058</TargetTemplateId>
+  <TargetTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TargetTemplateGUID>
+  <TargetTemplateHumanId>Metódus</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Metódus</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>METODUS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1060</AssociationPathId>
+  <AssociationPathGUID>F0ABAA98-B0C2-42E1-90F5-D5E4FEEF04E7</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.metódus</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>metódus</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.METODUS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>5</OrderNumber>
+</Ac4yAssociation>

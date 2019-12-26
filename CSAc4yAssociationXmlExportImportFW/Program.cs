@@ -13,8 +13,11 @@ namespace CSAc4yAssociationXmlExportImportFW
         private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
         private const string APPSETTINGS_CONNECTIONPARAMETER = "CONNECTIONPARAMETER";
-        private const string APPSETTINGS_OUTPUTPATH = "OUTPUTPATH";
 
+        private const string APPSETTINGS_TEMPLATE = "TEMPLATE";
+        private const string APPSETTINGS_NAME = "NAME";
+        private const string APPSETTINGS_OUTPUTPATH = "OUTPUTPATH";
+        /*
         public static string connectionString = ConfigurationManager.AppSettings["connectionString"];
         public static SqlConnection sqlConnection = new SqlConnection(ConfigurationManager.AppSettings["conneectionString"]);
         public static SqlConnection sqlConnectionXML = new SqlConnection(ConfigurationManager.AppSettings["connectionStringXML"]);
@@ -24,7 +27,7 @@ namespace CSAc4yAssociationXmlExportImportFW
         public static string outPathProcess = defaultPath + ConfigurationManager.AppSettings["PathProcess"];
         public static string outPathSuccess = defaultPath + ConfigurationManager.AppSettings["PathSuccess"];
         public static string outPathError = defaultPath + ConfigurationManager.AppSettings["PathError"];
-
+        */
         public SqlConnection SqlConnection { get; set; }
         public Configuration Config { get; set; }
 
@@ -69,9 +72,14 @@ namespace CSAc4yAssociationXmlExportImportFW
                         program.Config.AppSettings.Settings[APPSETTINGS_OUTPUTPATH].Value
                     );
 
+                new SaveToFileSys(program.SqlConnection).ExportTargetListByNames(
+                        program.Config.AppSettings.Settings[APPSETTINGS_TEMPLATE].Value
+                        ,program.Config.AppSettings.Settings[APPSETTINGS_NAME].Value
+                        ,program.Config.AppSettings.Settings[APPSETTINGS_OUTPUTPATH].Value
+                    );
 //                SaveToFileSysAssociationFW saveToFileSysAssociationFW = new SaveToFileSysAssociationFW(connectionString, TemplateName, outputPath, outPathProcess, outPathSuccess, outPathError);
 
-//                saveToFileSysAssociationFW.WriteOutAc4yAssociationAll();
+                //                saveToFileSysAssociationFW.WriteOutAc4yAssociationAll();
                 /*
                 List<SerializationObject> xmls = getXmls.GetXmlsMethod(sqlConn, sqlConnXML, TemplateName);
                 foreach(var xml in xmls)

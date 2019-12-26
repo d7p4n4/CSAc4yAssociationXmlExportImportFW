@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>824</Id>
+  <GUID>A8D3273C-EB05-4248-9A1A-0C08593FB3C6</GUID>
+  <OriginId>87</OriginId>
+  <OriginGUID>39D3C548-1C44-49C6-9555-B3FFC4DAC408</OriginGUID>
+  <OriginHumanId>Ugy_Kereses</OriginHumanId>
+  <OriginPublicHumanId>Ugy_Kereses</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYKERESES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1252</TargetId>
+  <TargetGUID>D7D3F8DF-6A2C-4840-B6A0-149A7A2F5662</TargetGUID>
+  <TargetHumanId>Ugy_Kereses.@RETURN_VALUE</TargetHumanId>
+  <TargetPublicHumanId>@RETURN_VALUE</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYKERESES.RETURNVALUE</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>111</TargetTemplateId>
+  <TargetTemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás argumentum</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás argumentum</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>113</AssociationPathId>
+  <AssociationPathGUID>35EEAD6B-024C-4BD3-B114-43F5D2756BDA</AssociationPathGUID>
+  <AssociationPathHumanId>tárolt eljárás.Argumentum</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>Argumentum</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.ARGUMENTUM</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>1</OrderNumber>
+</Ac4yAssociation>

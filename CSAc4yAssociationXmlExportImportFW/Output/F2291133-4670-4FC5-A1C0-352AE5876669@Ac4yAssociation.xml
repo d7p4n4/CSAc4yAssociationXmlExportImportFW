@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>374</Id>
+  <GUID>F2291133-4670-4FC5-A1C0-352AE5876669</GUID>
+  <OriginId>1037</OriginId>
+  <OriginGUID>26A7DBFA-F13F-4307-85D5-A31D8D414440</OriginGUID>
+  <OriginHumanId>Bla.Bla</OriginHumanId>
+  <OriginPublicHumanId>Bla</OriginPublicHumanId>
+  <OriginSimpledHumanId>BLA.BLA</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>6</OriginTemplateId>
+  <OriginTemplateGUID>0328D895-2397-4F18-B6B8-ECCC43E6ADF4</OriginTemplateGUID>
+  <OriginTemplateHumanId>Tanuló</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Tanuló</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TANULO</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1038</TargetId>
+  <TargetGUID>36328289-2FD2-4961-90D9-1EAB580B68D6</TargetGUID>
+  <TargetHumanId>Japán.Felso</TargetHumanId>
+  <TargetPublicHumanId>Felso</TargetPublicHumanId>
+  <TargetSimpledHumanId>JAPAN.FELSO</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1031</TargetTemplateId>
+  <TargetTemplateGUID>6A251343-8C81-4084-8E56-16E645CC6C0D</TargetTemplateGUID>
+  <TargetTemplateHumanId>nyelv</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>nyelv</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>NYELV</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1036</AssociationPathId>
+  <AssociationPathGUID>110FBAB9-593C-46D4-BAB2-7E88538FABFC</AssociationPathGUID>
+  <AssociationPathHumanId>tanuló.nyelv</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>nyelv</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TANULO.NYELV</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

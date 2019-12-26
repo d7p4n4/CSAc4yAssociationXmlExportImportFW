@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>785</Id>
+  <GUID>1B4636D9-816A-4C5C-A714-30A2AF9D9E30</GUID>
+  <OriginId>20</OriginId>
+  <OriginGUID>22802AAA-C3A2-457C-9F56-2F08E569D993</OriginGUID>
+  <OriginHumanId>Tor_Bankszamla_Kezeles</OriginHumanId>
+  <OriginPublicHumanId>Tor_Bankszamla_Kezeles</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORBANKSZAMLAKEZELES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1224</TargetId>
+  <TargetGUID>14E6E4F0-24E0-4DF1-9064-ED4EA4074F80</TargetGUID>
+  <TargetHumanId>Tor_Bankszamla_Kezeles.Bankszámla rekord módosítása</TargetHumanId>
+  <TargetPublicHumanId>Bankszámla rekord módosítása</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORBANKSZAMLAKEZELES.BANKSZAMLAREKORDMODOSITASA</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1058</TargetTemplateId>
+  <TargetTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TargetTemplateGUID>
+  <TargetTemplateHumanId>Metódus</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Metódus</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>METODUS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1060</AssociationPathId>
+  <AssociationPathGUID>F0ABAA98-B0C2-42E1-90F5-D5E4FEEF04E7</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.metódus</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>metódus</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.METODUS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>2</OrderNumber>
+</Ac4yAssociation>

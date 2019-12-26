@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>749</Id>
+  <GUID>C4929BA2-F297-496B-B429-B22F78388F6C</GUID>
+  <OriginId>943</OriginId>
+  <OriginGUID>743D1EA1-FE8F-4CE5-A050-BA0D186D6BC9</OriginGUID>
+  <OriginHumanId>Tor_AjandekUtalvany</OriginHumanId>
+  <OriginPublicHumanId>Tor_AjandekUtalvany</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORAJANDEKUTALVANY</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1096</TargetId>
+  <TargetGUID>B8B3DE77-95B6-43E8-8D8F-F85503E94AF1</TargetGUID>
+  <TargetHumanId>Tor_AjandekUtalvany.SO</TargetHumanId>
+  <TargetPublicHumanId>SO</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORAJANDEKUTALVANY.SO</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1066</TargetTemplateId>
+  <TargetTemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TargetTemplateGUID>
+  <TargetTemplateHumanId>Muvelet</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Muvelet</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>MUVELET</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1117</AssociationPathId>
+  <AssociationPathGUID>2C33183F-5E29-428C-B434-D81952CEF438</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.muvelet</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>muvelet</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.MUVELET</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>6</OrderNumber>
+</Ac4yAssociation>

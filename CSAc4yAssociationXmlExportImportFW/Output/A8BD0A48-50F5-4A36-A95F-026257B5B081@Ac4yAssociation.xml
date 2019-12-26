@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>801</Id>
+  <GUID>A8BD0A48-50F5-4A36-A95F-026257B5B081</GUID>
+  <OriginId>88</OriginId>
+  <OriginGUID>EAA07158-4A25-4090-9F21-C7F8B528C0E6</OriginGUID>
+  <OriginHumanId>Ugy_Kezeles</OriginHumanId>
+  <OriginPublicHumanId>Ugy_Kezeles</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYKEZELES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1232</TargetId>
+  <TargetGUID>B2441377-D2A8-4805-A512-3B89E1831FB7</TargetGUID>
+  <TargetHumanId>Ugy_Kezeles.Partner lekérdezése</TargetHumanId>
+  <TargetPublicHumanId>Partner lekérdezése</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYKEZELES.PARTNERLEKERDEZESE</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1058</TargetTemplateId>
+  <TargetTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TargetTemplateGUID>
+  <TargetTemplateHumanId>Metódus</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Metódus</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>METODUS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1060</AssociationPathId>
+  <AssociationPathGUID>F0ABAA98-B0C2-42E1-90F5-D5E4FEEF04E7</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.metódus</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>metódus</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.METODUS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>4</OrderNumber>
+</Ac4yAssociation>

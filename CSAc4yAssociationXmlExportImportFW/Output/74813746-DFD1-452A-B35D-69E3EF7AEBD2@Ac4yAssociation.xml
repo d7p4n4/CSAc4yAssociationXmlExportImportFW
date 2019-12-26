@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>792</Id>
+  <GUID>74813746-DFD1-452A-B35D-69E3EF7AEBD2</GUID>
+  <OriginId>20</OriginId>
+  <OriginGUID>22802AAA-C3A2-457C-9F56-2F08E569D993</OriginGUID>
+  <OriginHumanId>Tor_Bankszamla_Kezeles</OriginHumanId>
+  <OriginPublicHumanId>Tor_Bankszamla_Kezeles</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORBANKSZAMLAKEZELES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1115</TargetId>
+  <TargetGUID>6EC9C51F-0ABD-4796-A562-775F6CCFD5AF</TargetGUID>
+  <TargetHumanId>Tor_Bankszamla_Kezeles.VANEMAR</TargetHumanId>
+  <TargetPublicHumanId>VANEMAR</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORBANKSZAMLAKEZELES.VANEMAR</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1066</TargetTemplateId>
+  <TargetTemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TargetTemplateGUID>
+  <TargetTemplateHumanId>Muvelet</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Muvelet</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>MUVELET</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1117</AssociationPathId>
+  <AssociationPathGUID>2C33183F-5E29-428C-B434-D81952CEF438</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.muvelet</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>muvelet</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.MUVELET</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>6</OrderNumber>
+</Ac4yAssociation>

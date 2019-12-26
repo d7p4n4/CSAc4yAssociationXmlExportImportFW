@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>778</Id>
+  <GUID>37F4C391-3244-4587-BF56-8AFB94C16B46</GUID>
+  <OriginId>536</OriginId>
+  <OriginGUID>E0D682AC-09AB-47F7-B00C-A60B25417E1F</OriginGUID>
+  <OriginHumanId>Tor_AtvilagitasRogzites</OriginHumanId>
+  <OriginPublicHumanId>Tor_AtvilagitasRogzites</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORATVILAGITASROGZITES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1106</TargetId>
+  <TargetGUID>1230F5AD-F59B-4E47-B1E9-FE761749AE3A</TargetGUID>
+  <TargetHumanId>Tor_AtvilagitasRogzites.SELECT_EREDMENY</TargetHumanId>
+  <TargetPublicHumanId>SELECT_EREDMENY</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORATVILAGITASROGZITES.SELECTEREDMENY</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1066</TargetTemplateId>
+  <TargetTemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TargetTemplateGUID>
+  <TargetTemplateHumanId>Muvelet</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Muvelet</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>MUVELET</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1117</AssociationPathId>
+  <AssociationPathGUID>2C33183F-5E29-428C-B434-D81952CEF438</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.muvelet</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>muvelet</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.MUVELET</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>2</OrderNumber>
+</Ac4yAssociation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>907</Id>
+  <GUID>680678B4-B98E-45C8-97C3-73261522E01F</GUID>
+  <OriginId>1231</OriginId>
+  <OriginGUID>379A368A-BFA9-4F57-9E5F-7B178B30B1CA</OriginGUID>
+  <OriginHumanId>Ugy_Kezeles.Ügynökadatok módosítása</OriginHumanId>
+  <OriginPublicHumanId>Ügynökadatok módosítása</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYKEZELES.UGYNOKADATOKMODOSITASA</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>1058</OriginTemplateId>
+  <OriginTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</OriginTemplateGUID>
+  <OriginTemplateHumanId>Metódus</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Metódus</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>METODUS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1271</TargetId>
+  <TargetGUID>4460FFEF-20C3-480A-9C62-54452815203D</TargetGUID>
+  <TargetHumanId>Ugy_Kezeles.@dKezdete</TargetHumanId>
+  <TargetPublicHumanId>@dKezdete</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYKEZELES.DKEZDETE</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>111</TargetTemplateId>
+  <TargetTemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás argumentum</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás argumentum</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1061</AssociationPathId>
+  <AssociationPathGUID>4ED5FF14-4F24-4B2E-8B13-D9CE17E63555</AssociationPathGUID>
+  <AssociationPathHumanId>Metódus.Argumentum</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>Argumentum</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>METODUS.ARGUMENTUM</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>5</OrderNumber>
+</Ac4yAssociation>

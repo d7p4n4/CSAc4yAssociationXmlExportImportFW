@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>867</Id>
+  <GUID>13F6C7E3-9269-43D3-8049-C841DDF06027</GUID>
+  <OriginId>90</OriginId>
+  <OriginGUID>60E9F529-D1A7-4A8E-97B1-D5E3D8FE91B1</OriginGUID>
+  <OriginHumanId>Ugy_Naplo</OriginHumanId>
+  <OriginPublicHumanId>Ugy_Naplo</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYNAPLO</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1294</TargetId>
+  <TargetGUID>0836BF74-EAB3-4C74-A404-01AB22CCF46A</TargetGUID>
+  <TargetHumanId>Ugy_Naplo.@ugynokAZ</TargetHumanId>
+  <TargetPublicHumanId>@ugynokAZ</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYNAPLO.UGYNOKAZ</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>111</TargetTemplateId>
+  <TargetTemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás argumentum</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás argumentum</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>113</AssociationPathId>
+  <AssociationPathGUID>35EEAD6B-024C-4BD3-B114-43F5D2756BDA</AssociationPathGUID>
+  <AssociationPathHumanId>tárolt eljárás.Argumentum</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>Argumentum</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.ARGUMENTUM</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>8</OrderNumber>
+</Ac4yAssociation>

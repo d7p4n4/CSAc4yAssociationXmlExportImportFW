@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>821</Id>
+  <GUID>06C39576-8913-43D1-A71C-B48574684AC5</GUID>
+  <OriginId>86</OriginId>
+  <OriginGUID>7E5F6513-1DCA-4489-8960-30E8B9861033</OriginGUID>
+  <OriginHumanId>Ugy_Jutalek</OriginHumanId>
+  <OriginPublicHumanId>Ugy_Jutalek</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYJUTALEK</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1249</TargetId>
+  <TargetGUID>02F12BB4-7658-4AEB-A223-7F32FCDF23D0</TargetGUID>
+  <TargetHumanId>Ugy_Jutalek.@elszIg</TargetHumanId>
+  <TargetPublicHumanId>@elszIg</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYJUTALEK.ELSZIG</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>111</TargetTemplateId>
+  <TargetTemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás argumentum</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás argumentum</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>113</AssociationPathId>
+  <AssociationPathGUID>35EEAD6B-024C-4BD3-B114-43F5D2756BDA</AssociationPathGUID>
+  <AssociationPathHumanId>tárolt eljárás.Argumentum</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>Argumentum</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.ARGUMENTUM</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>6</OrderNumber>
+</Ac4yAssociation>

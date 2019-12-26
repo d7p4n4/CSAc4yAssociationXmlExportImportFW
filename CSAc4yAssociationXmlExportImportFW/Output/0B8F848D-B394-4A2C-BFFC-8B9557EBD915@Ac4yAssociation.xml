@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>317</Id>
+  <GUID>0B8F848D-B394-4A2C-BFFC-8B9557EBD915</GUID>
+  <OriginId>1010</OriginId>
+  <OriginGUID>FD47B268-AEA1-4341-9C20-2219DDDC4818</OriginGUID>
+  <OriginHumanId>Teszt modul</OriginHumanId>
+  <OriginPublicHumanId>Teszt modul</OriginPublicHumanId>
+  <OriginSimpledHumanId>TESZTMODUL</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1012</TargetId>
+  <TargetGUID>8DFBDB5C-1F5C-4DB1-87BF-A9096AEEF640</TargetGUID>
+  <TargetHumanId>List_Fok_Jogcimek_leker</TargetHumanId>
+  <TargetPublicHumanId>List_Fok_Jogcimek_leker</TargetPublicHumanId>
+  <TargetSimpledHumanId>LISTFOKJOGCIMEKLEKER</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>33</TargetTemplateId>
+  <TargetTemplateGUID>50502AD7-2BE8-4126-9DEF-2E85728CAD27</TargetTemplateGUID>
+  <TargetTemplateHumanId>modul</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>modul</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>MODUL</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>183</AssociationPathId>
+  <AssociationPathGUID>EA2FCEFA-32BE-4246-A13E-EC89390BF770</AssociationPathGUID>
+  <AssociationPathHumanId>Modul.tárolt eljárás</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>tárolt eljárás</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>MODUL.TAROLTELJARAS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

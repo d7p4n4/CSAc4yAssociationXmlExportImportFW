@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>177</Id>
+  <GUID>455E1673-0144-4F9B-9D53-013AD3A353E5</GUID>
+  <OriginId>70</OriginId>
+  <OriginGUID>8233B49E-0479-4229-BA6A-DA17AB542BED</OriginGUID>
+  <OriginHumanId>tblParSzerzodes</OriginHumanId>
+  <OriginPublicHumanId>tblParSzerzodes</OriginPublicHumanId>
+  <OriginSimpledHumanId>TBLPARSZERZODES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>59</OriginTemplateId>
+  <OriginTemplateGUID>D95EAD10-79AA-47F0-AF87-C546BF9CF664</OriginTemplateGUID>
+  <OriginTemplateHumanId>Tábla</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Tábla</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TABLA</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>244</TargetId>
+  <TargetGUID>CFE102C1-5A10-4366-B80C-68C5878D04B5</TargetGUID>
+  <TargetHumanId>ParSzerzodesAZ</TargetHumanId>
+  <TargetPublicHumanId>ParSzerzodesAZ</TargetPublicHumanId>
+  <TargetSimpledHumanId>PARSZERZODESAZ</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>184</TargetTemplateId>
+  <TargetTemplateGUID>F08E0A74-0F89-48A2-BA8A-1D98BE49CF84</TargetTemplateGUID>
+  <TargetTemplateHumanId>tábla oszlop</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tábla oszlop</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TABLAOSZLOP</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>186</AssociationPathId>
+  <AssociationPathGUID>5E944A6E-76A0-4EC2-AD13-211435863B8F</AssociationPathGUID>
+  <AssociationPathHumanId>tábla.oszlop</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>oszlop</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TABLA.OSZLOP</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

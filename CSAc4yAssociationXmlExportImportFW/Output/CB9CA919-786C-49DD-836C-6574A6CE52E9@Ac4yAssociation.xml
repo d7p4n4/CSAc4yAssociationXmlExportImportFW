@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>912</Id>
+  <GUID>CB9CA919-786C-49DD-836C-6574A6CE52E9</GUID>
+  <OriginId>1232</OriginId>
+  <OriginGUID>B2441377-D2A8-4805-A512-3B89E1831FB7</OriginGUID>
+  <OriginHumanId>Ugy_Kezeles.Partner lekérdezése</OriginHumanId>
+  <OriginPublicHumanId>Partner lekérdezése</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYKEZELES.PARTNERLEKERDEZESE</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>1058</OriginTemplateId>
+  <OriginTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</OriginTemplateGUID>
+  <OriginTemplateHumanId>Metódus</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Metódus</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>METODUS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1267</TargetId>
+  <TargetGUID>165B5CE2-41B7-4F6D-9DA6-6821D110BAB3</TargetGUID>
+  <TargetHumanId>Ugy_Kezeles.@lAZ</TargetHumanId>
+  <TargetPublicHumanId>@lAZ</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYKEZELES.LAZ</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>111</TargetTemplateId>
+  <TargetTemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás argumentum</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás argumentum</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1061</AssociationPathId>
+  <AssociationPathGUID>4ED5FF14-4F24-4B2E-8B13-D9CE17E63555</AssociationPathGUID>
+  <AssociationPathHumanId>Metódus.Argumentum</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>Argumentum</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>METODUS.ARGUMENTUM</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

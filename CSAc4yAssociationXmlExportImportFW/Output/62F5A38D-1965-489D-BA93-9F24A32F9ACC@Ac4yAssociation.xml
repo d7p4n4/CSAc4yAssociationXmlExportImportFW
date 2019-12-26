@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>137</Id>
+  <GUID>62F5A38D-1965-489D-BA93-9F24A32F9ACC</GUID>
+  <OriginId>62</OriginId>
+  <OriginGUID>5913B15D-2E0F-4CA3-8601-16A13AB8EC0C</OriginGUID>
+  <OriginHumanId>tblParCim</OriginHumanId>
+  <OriginPublicHumanId>tblParCim</OriginPublicHumanId>
+  <OriginSimpledHumanId>TBLPARCIM</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>59</OriginTemplateId>
+  <OriginTemplateGUID>D95EAD10-79AA-47F0-AF87-C546BF9CF664</OriginTemplateGUID>
+  <OriginTemplateHumanId>Tábla</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Tábla</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TABLA</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>204</TargetId>
+  <TargetGUID>40D60F5B-A59B-4D75-990F-96EBE82CC1E9</TargetGUID>
+  <TargetHumanId>ParCimPf</TargetHumanId>
+  <TargetPublicHumanId>ParCimPf</TargetPublicHumanId>
+  <TargetSimpledHumanId>PARCIMPF</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>184</TargetTemplateId>
+  <TargetTemplateGUID>F08E0A74-0F89-48A2-BA8A-1D98BE49CF84</TargetTemplateGUID>
+  <TargetTemplateHumanId>tábla oszlop</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tábla oszlop</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TABLAOSZLOP</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>186</AssociationPathId>
+  <AssociationPathGUID>5E944A6E-76A0-4EC2-AD13-211435863B8F</AssociationPathGUID>
+  <AssociationPathHumanId>tábla.oszlop</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>oszlop</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TABLA.OSZLOP</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>152</Id>
+  <GUID>FB6B2155-E941-4033-9963-18B9CE0DF800</GUID>
+  <OriginId>65</OriginId>
+  <OriginGUID>748F6CF9-3C22-4949-873D-15364FCC3571</OriginGUID>
+  <OriginHumanId>tblParKockKat</OriginHumanId>
+  <OriginPublicHumanId>tblParKockKat</OriginPublicHumanId>
+  <OriginSimpledHumanId>TBLPARKOCKKAT</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>59</OriginTemplateId>
+  <OriginTemplateGUID>D95EAD10-79AA-47F0-AF87-C546BF9CF664</OriginTemplateGUID>
+  <OriginTemplateHumanId>Tábla</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Tábla</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TABLA</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>219</TargetId>
+  <TargetGUID>9FE4D73A-A35D-40D1-A74E-708F71AEAB0F</TargetGUID>
+  <TargetHumanId>ParKockKatKezdDat</TargetHumanId>
+  <TargetPublicHumanId>ParKockKatKezdDat</TargetPublicHumanId>
+  <TargetSimpledHumanId>PARKOCKKATKEZDDAT</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>184</TargetTemplateId>
+  <TargetTemplateGUID>F08E0A74-0F89-48A2-BA8A-1D98BE49CF84</TargetTemplateGUID>
+  <TargetTemplateHumanId>tábla oszlop</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tábla oszlop</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TABLAOSZLOP</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>186</AssociationPathId>
+  <AssociationPathGUID>5E944A6E-76A0-4EC2-AD13-211435863B8F</AssociationPathGUID>
+  <AssociationPathHumanId>tábla.oszlop</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>oszlop</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TABLA.OSZLOP</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

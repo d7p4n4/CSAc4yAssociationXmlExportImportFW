@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>768</Id>
+  <GUID>597B520A-5272-40E7-BC80-40A121D2831B</GUID>
+  <OriginId>536</OriginId>
+  <OriginGUID>E0D682AC-09AB-47F7-B00C-A60B25417E1F</OriginGUID>
+  <OriginHumanId>Tor_AtvilagitasRogzites</OriginHumanId>
+  <OriginPublicHumanId>Tor_AtvilagitasRogzites</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORATVILAGITASROGZITES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1218</TargetId>
+  <TargetGUID>CBAB9D27-22D0-4F00-ABFF-810FFA54047E</TargetGUID>
+  <TargetHumanId>Tor_AtvilagitasRogzites.Adatbeszúrás a napló táblába</TargetHumanId>
+  <TargetPublicHumanId>Adatbeszúrás a napló táblába</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORATVILAGITASROGZITES.ADATBESZURASANAPLOTABLABA</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1058</TargetTemplateId>
+  <TargetTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TargetTemplateGUID>
+  <TargetTemplateHumanId>Metódus</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Metódus</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>METODUS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1060</AssociationPathId>
+  <AssociationPathGUID>F0ABAA98-B0C2-42E1-90F5-D5E4FEEF04E7</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.metódus</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>metódus</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.METODUS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>1</OrderNumber>
+</Ac4yAssociation>

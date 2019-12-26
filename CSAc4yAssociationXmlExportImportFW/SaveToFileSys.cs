@@ -1,6 +1,8 @@
 ﻿using CSAc4yObjectDBCap;
 using CSAc4yObjectObjectService.Association;
+using CSAc4yUtilityContainer;
 using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.IO;
 using System.Xml;
@@ -73,6 +75,54 @@ namespace CSAc4yAssociationXmlExportImport
                 WriteOut(xml, element.GUID + "@Ac4yAssociation", outputPath);
             }
 
+        } // ExportAllInstances
+        
+        public void ExportTargetAc4yObjectList(List<Ac4yAssociationTarget> list, string outputPath)
+        {
+
+            foreach (var element in list)
+            {
+
+                WriteOut(
+                    new Ac4yUtility().GetAsXml(element)
+                    , element.GUID + "@Ac4yAssociation"
+                    , outputPath
+                );
+
+            }
+
+        } // ExportAc4yObjectList
+
+        public void ExportTargetListByNames(string templateName, string name, string outputPath)
+        {
+
+            if (String.IsNullOrEmpty(outputPath))
+                throw new Exception("outputpath nem lehet üres!");
+
+            if (String.IsNullOrEmpty(templateName))
+                throw new Exception("templateName nem lehet üres!");
+
+            if (String.IsNullOrEmpty(name))
+                throw new Exception("name nem lehet üres!");
+
+            Ac4yAssociationObjectService.ListTargetByNamesResponse response =
+                new Ac4yAssociationObjectService(_sqlConnection).ListTargetByNames(
+                    new Ac4yAssociationObjectService.ListTargetByNamesRequest() {
+                    TemplateName=templateName, Name=name}
+                );
+
+            if (response.Result.Fail())
+                throw new Exception(response.Result.Message);
+
+            ExportTargetAc4yObjectList(response.Ac4yAssociationTargetList, outputPath);
+            /*
+            foreach (var element in response.Ac4yAssociationTargetList)
+            {
+                string xml = serialize(element, typeof(Ac4yAssociation));
+
+                WriteOut(xml, element.GUID + "@Ac4yAssociation", outputPath);
+            }
+            */
         } // ExportAllInstances
 
         public static void WriteOut(string text, string fileName, string outputPath)

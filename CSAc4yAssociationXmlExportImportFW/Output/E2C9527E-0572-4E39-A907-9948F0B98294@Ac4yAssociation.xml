@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>9</Id>
+  <GUID>E2C9527E-0572-4E39-A907-9948F0B98294</GUID>
+  <OriginId>34</OriginId>
+  <OriginGUID>9DE97E74-48F2-4C04-944A-7129DE3C1B25</OriginGUID>
+  <OriginHumanId>Ügynök</OriginHumanId>
+  <OriginPublicHumanId>Ügynök</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYNOK</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>33</OriginTemplateId>
+  <OriginTemplateGUID>50502AD7-2BE8-4126-9DEF-2E85728CAD27</OriginTemplateGUID>
+  <OriginTemplateHumanId>modul</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>modul</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>MODUL</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>61</TargetId>
+  <TargetGUID>4C6DA6CC-F355-49D0-B41A-E8FDA526A6F3</TargetGUID>
+  <TargetHumanId>tblParBesorolas</TargetHumanId>
+  <TargetPublicHumanId>tblParBesorolas</TargetPublicHumanId>
+  <TargetSimpledHumanId>TBLPARBESOROLAS</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>59</TargetTemplateId>
+  <TargetTemplateGUID>D95EAD10-79AA-47F0-AF87-C546BF9CF664</TargetTemplateGUID>
+  <TargetTemplateHumanId>Tábla</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Tábla</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TABLA</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>95</AssociationPathId>
+  <AssociationPathGUID>A75CF692-3016-4223-BA48-E12EEF48DE1B</AssociationPathGUID>
+  <AssociationPathHumanId>Modul.tábla</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>tábla</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>MODUL.TABLA</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>369</Id>
+  <GUID>4FB4EC25-39BD-4814-9D9F-3F5ACA81015D</GUID>
+  <OriginId>1028</OriginId>
+  <OriginGUID>DCC24F84-0AFE-49EE-ADEB-E18FCE37FF5E</OriginGUID>
+  <OriginHumanId>teszt</OriginHumanId>
+  <OriginPublicHumanId>teszt</OriginPublicHumanId>
+  <OriginSimpledHumanId>TESZT</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>1027</OriginTemplateId>
+  <OriginTemplateGUID>0B9B1213-6F51-4563-87F3-638D5F2D910F</OriginTemplateGUID>
+  <OriginTemplateHumanId>tanuló konténer</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tanuló konténer</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TANULOKONTENER</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1030</TargetId>
+  <TargetGUID>5C03BA04-A5D4-41BD-97AE-48D508B88959</TargetGUID>
+  <TargetHumanId>Kis.Éva</TargetHumanId>
+  <TargetPublicHumanId>Éva</TargetPublicHumanId>
+  <TargetSimpledHumanId>KIS.EVA</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>6</TargetTemplateId>
+  <TargetTemplateGUID>0328D895-2397-4F18-B6B8-ECCC43E6ADF4</TargetTemplateGUID>
+  <TargetTemplateHumanId>Tanuló</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Tanuló</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TANULO</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1035</AssociationPathId>
+  <AssociationPathGUID>5E5B78F2-40DD-456E-A55F-EB4D1C74258A</AssociationPathGUID>
+  <AssociationPathHumanId>tanuló konténer.tanuló</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>tanuló</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TANULOKONTENER.TANULO</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

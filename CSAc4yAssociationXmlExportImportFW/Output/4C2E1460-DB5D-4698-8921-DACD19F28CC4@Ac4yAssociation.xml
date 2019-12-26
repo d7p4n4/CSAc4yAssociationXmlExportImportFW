@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1233</Id>
+  <GUID>4C2E1460-DB5D-4698-8921-DACD19F28CC4</GUID>
+  <HumanId>Ugy_Kezeles.Új ügynök rögzítése</HumanId>
+  <PublicHumanId>Új ügynök rögzítése</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.UJUGYNOKROGZITESE</SimpledHumanId>
+  <TemplateId>1058</TemplateId>
+  <TemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TemplateGUID>
+  <TemplateHumanId>Metódus</TemplateHumanId>
+  <TemplatePublicHumanId>Metódus</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>METODUS</TemplateSimpledHumanId>
+  <AssociationId>803</AssociationId>
+  <AssociationGUID>04556804-967D-465A-A31B-0FA80037BD02</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>

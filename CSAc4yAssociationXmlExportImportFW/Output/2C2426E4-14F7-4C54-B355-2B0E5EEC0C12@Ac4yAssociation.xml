@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1118</Id>
+  <GUID>2C2426E4-14F7-4C54-B355-2B0E5EEC0C12</GUID>
+  <HumanId>Ugy_Kezeles.CIBFIOKLIST</HumanId>
+  <PublicHumanId>CIBFIOKLIST</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.CIBFIOKLIST</SimpledHumanId>
+  <TemplateId>1066</TemplateId>
+  <TemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TemplateGUID>
+  <TemplateHumanId>Muvelet</TemplateHumanId>
+  <TemplatePublicHumanId>Muvelet</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>MUVELET</TemplateSimpledHumanId>
+  <AssociationId>794</AssociationId>
+  <AssociationGUID>F3FDB5DA-0273-42EF-BA3D-94176C37F165</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>763</Id>
+  <GUID>30221737-8999-40A4-A629-D2AC8BECFE63</GUID>
+  <OriginId>497</OriginId>
+  <OriginGUID>B9F735D3-541D-4D98-A06B-FDEB3F8EB9C8</OriginGUID>
+  <OriginHumanId>Tor_AtvilagitasKapcsolat</OriginHumanId>
+  <OriginPublicHumanId>Tor_AtvilagitasKapcsolat</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORATVILAGITASKAPCSOLAT</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1103</TargetId>
+  <TargetGUID>0303D9DD-64BB-4DDC-AA41-E5A6DABD7A85</TargetGUID>
+  <TargetHumanId>Tor_AtvilagitasKapcsolat.SELECT_ORSZAG</TargetHumanId>
+  <TargetPublicHumanId>SELECT_ORSZAG</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORATVILAGITASKAPCSOLAT.SELECTORSZAG</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1066</TargetTemplateId>
+  <TargetTemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TargetTemplateGUID>
+  <TargetTemplateHumanId>Muvelet</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Muvelet</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>MUVELET</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1117</AssociationPathId>
+  <AssociationPathGUID>2C33183F-5E29-428C-B434-D81952CEF438</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.muvelet</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>muvelet</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.MUVELET</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>7</OrderNumber>
+</Ac4yAssociation>

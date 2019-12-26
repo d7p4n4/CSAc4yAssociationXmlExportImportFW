@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1121</Id>
+  <GUID>97F975E4-D553-4D9A-AD93-397B978445C8</GUID>
+  <HumanId>Ugy_Kezeles.PARTNER</HumanId>
+  <PublicHumanId>PARTNER</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.PARTNER</SimpledHumanId>
+  <TemplateId>1066</TemplateId>
+  <TemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TemplateGUID>
+  <TemplateHumanId>Muvelet</TemplateHumanId>
+  <TemplatePublicHumanId>Muvelet</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>MUVELET</TemplateSimpledHumanId>
+  <AssociationId>800</AssociationId>
+  <AssociationGUID>103208B1-15B6-4192-BFCC-9CF80942ABF8</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>

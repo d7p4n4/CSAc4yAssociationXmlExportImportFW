@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>887</Id>
+  <GUID>B5154B93-6CE0-4330-B678-CA99E691E252</GUID>
+  <OriginId>1235</OriginId>
+  <OriginGUID>539EB9B9-2CBD-4D04-924F-16181840DC6A</OriginGUID>
+  <OriginHumanId>Ugy_Kezeles.Ügynökkeresés személyazonosító alapján</OriginHumanId>
+  <OriginPublicHumanId>Ügynökkeresés személyazonosító alapján</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYKEZELES.UGYNOKKERESESSZEMELYAZONOSITOALAPJAN</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>1058</OriginTemplateId>
+  <OriginTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</OriginTemplateGUID>
+  <OriginTemplateHumanId>Metódus</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Metódus</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>METODUS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1267</TargetId>
+  <TargetGUID>165B5CE2-41B7-4F6D-9DA6-6821D110BAB3</TargetGUID>
+  <TargetHumanId>Ugy_Kezeles.@lAZ</TargetHumanId>
+  <TargetPublicHumanId>@lAZ</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYKEZELES.LAZ</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>111</TargetTemplateId>
+  <TargetTemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás argumentum</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás argumentum</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1061</AssociationPathId>
+  <AssociationPathGUID>4ED5FF14-4F24-4B2E-8B13-D9CE17E63555</AssociationPathGUID>
+  <AssociationPathHumanId>Metódus.Argumentum</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>Argumentum</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>METODUS.ARGUMENTUM</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

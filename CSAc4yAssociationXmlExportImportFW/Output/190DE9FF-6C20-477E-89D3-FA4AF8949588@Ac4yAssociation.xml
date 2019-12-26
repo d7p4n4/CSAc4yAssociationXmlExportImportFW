@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382</Id>
+  <GUID>190DE9FF-6C20-477E-89D3-FA4AF8949588</GUID>
+  <OriginId>1057</OriginId>
+  <OriginGUID>E9DAAC5A-0B39-4E55-8A34-30B3CC03AC8A</OriginGUID>
+  <OriginHumanId>Ügynök kezelés</OriginHumanId>
+  <OriginPublicHumanId>Ügynök kezelés</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYNOKKEZELES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1062</TargetId>
+  <TargetGUID>E030E3F6-A49F-4A72-9827-270C021FA475</TargetGUID>
+  <TargetHumanId>Ügynök kezelés.Ügynök adatok lekérdezése</TargetHumanId>
+  <TargetPublicHumanId>Ügynök adatok lekérdezése</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYNOKKEZELES.UGYNOKADATOKLEKERDEZESE</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1058</TargetTemplateId>
+  <TargetTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TargetTemplateGUID>
+  <TargetTemplateHumanId>Metódus</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Metódus</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>METODUS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1060</AssociationPathId>
+  <AssociationPathGUID>F0ABAA98-B0C2-42E1-90F5-D5E4FEEF04E7</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.metódus</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>metódus</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.METODUS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>2</OrderNumber>
+</Ac4yAssociation>

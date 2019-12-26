@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>892</Id>
+  <GUID>D279EC2D-04CC-44D6-B7FF-C62106DDD3A2</GUID>
+  <OriginId>1236</OriginId>
+  <OriginGUID>EB0C41EE-D18F-44CC-B70D-A29F92B780F9</OriginGUID>
+  <OriginHumanId>Ugy_Kezeles.Ügynökadatok lekérdezése</OriginHumanId>
+  <OriginPublicHumanId>Ügynökadatok lekérdezése</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYKEZELES.UGYNOKADATOKLEKERDEZESE</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>1058</OriginTemplateId>
+  <OriginTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</OriginTemplateGUID>
+  <OriginTemplateHumanId>Metódus</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Metódus</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>METODUS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1268</TargetId>
+  <TargetGUID>672DA127-2E57-40CE-8BBD-7738E35FF9D6</TargetGUID>
+  <TargetHumanId>Ugy_Kezeles.@lParAZ</TargetHumanId>
+  <TargetPublicHumanId>@lParAZ</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYKEZELES.LPARAZ</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>111</TargetTemplateId>
+  <TargetTemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás argumentum</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás argumentum</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1061</AssociationPathId>
+  <AssociationPathGUID>4ED5FF14-4F24-4B2E-8B13-D9CE17E63555</AssociationPathGUID>
+  <AssociationPathHumanId>Metódus.Argumentum</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>Argumentum</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>METODUS.ARGUMENTUM</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>2</OrderNumber>
+</Ac4yAssociation>

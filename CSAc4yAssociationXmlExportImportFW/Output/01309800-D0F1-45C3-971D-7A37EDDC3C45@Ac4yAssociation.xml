@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1265</Id>
+  <GUID>01309800-D0F1-45C3-971D-7A37EDDC3C45</GUID>
+  <HumanId>Ugy_Kezeles.@RETURN_VALUE</HumanId>
+  <PublicHumanId>@RETURN_VALUE</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.RETURNVALUE</SimpledHumanId>
+  <TemplateId>111</TemplateId>
+  <TemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TemplateGUID>
+  <TemplateHumanId>tárolt eljárás argumentum</TemplateHumanId>
+  <TemplatePublicHumanId>tárolt eljárás argumentum</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TemplateSimpledHumanId>
+  <AssociationId>837</AssociationId>
+  <AssociationGUID>7977C73B-37FB-4E67-9C26-F37282D6DD3C</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>

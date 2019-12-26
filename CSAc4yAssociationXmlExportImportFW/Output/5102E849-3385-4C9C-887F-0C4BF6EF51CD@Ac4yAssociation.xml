@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>337</Id>
+  <GUID>5102E849-3385-4C9C-887F-0C4BF6EF51CD</GUID>
+  <OriginId>92</OriginId>
+  <OriginGUID>D9009CE0-E5FE-4238-8A58-BF43BEAA88A4</OriginGUID>
+  <OriginHumanId>Teszt modul</OriginHumanId>
+  <OriginPublicHumanId>Teszt modul</OriginPublicHumanId>
+  <OriginSimpledHumanId>TESZTMODUL</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>33</OriginTemplateId>
+  <OriginTemplateGUID>50502AD7-2BE8-4126-9DEF-2E85728CAD27</OriginTemplateGUID>
+  <OriginTemplateHumanId>modul</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>modul</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>MODUL</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>97</TargetId>
+  <TargetGUID>B5397469-AB63-4FD3-9D74-A9454F42C7FA</TargetGUID>
+  <TargetHumanId>Teszt tábla 2</TargetHumanId>
+  <TargetPublicHumanId>Teszt tábla 2</TargetPublicHumanId>
+  <TargetSimpledHumanId>TESZTTABLA2</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>59</TargetTemplateId>
+  <TargetTemplateGUID>D95EAD10-79AA-47F0-AF87-C546BF9CF664</TargetTemplateGUID>
+  <TargetTemplateHumanId>Tábla</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Tábla</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TABLA</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>95</AssociationPathId>
+  <AssociationPathGUID>A75CF692-3016-4223-BA48-E12EEF48DE1B</AssociationPathGUID>
+  <AssociationPathHumanId>Modul.tábla</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>tábla</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>MODUL.TABLA</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>2</OrderNumber>
+</Ac4yAssociation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1119</Id>
+  <GUID>15F787D6-D0A7-4FCF-A656-E7B29CCD20CF</GUID>
+  <HumanId>Ugy_Kezeles.HOLDING</HumanId>
+  <PublicHumanId>HOLDING</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.HOLDING</SimpledHumanId>
+  <TemplateId>1066</TemplateId>
+  <TemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TemplateGUID>
+  <TemplateHumanId>Muvelet</TemplateHumanId>
+  <TemplatePublicHumanId>Muvelet</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>MUVELET</TemplateSimpledHumanId>
+  <AssociationId>796</AssociationId>
+  <AssociationGUID>85004D5F-165E-48B6-AAF8-28574BFB1C32</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>

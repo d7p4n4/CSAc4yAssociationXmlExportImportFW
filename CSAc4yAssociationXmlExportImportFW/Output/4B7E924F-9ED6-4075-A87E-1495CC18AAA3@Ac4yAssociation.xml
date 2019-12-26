@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2</Id>
+  <GUID>4B7E924F-9ED6-4075-A87E-1495CC18AAA3</GUID>
+  <OriginId>99</OriginId>
+  <OriginGUID>9A0AA207-235A-4890-9966-7B9C7A888EDF</OriginGUID>
+  <OriginHumanId>originNev</OriginHumanId>
+  <OriginPublicHumanId>originNev</OriginPublicHumanId>
+  <OriginSimpledHumanId>ORIGINNEV</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>98</OriginTemplateId>
+  <OriginTemplateGUID>8C5A842D-DE6E-4331-8CD7-847C0E73B75D</OriginTemplateGUID>
+  <OriginTemplateHumanId>originTempNev</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>originTempNev</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>ORIGINTEMPNEV</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>101</TargetId>
+  <TargetGUID>8B34D506-8FD6-4D90-8859-7EAEB9B18569</TargetGUID>
+  <TargetHumanId>targetNev</TargetHumanId>
+  <TargetPublicHumanId>targetNev</TargetPublicHumanId>
+  <TargetSimpledHumanId>TARGETNEV</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>100</TargetTemplateId>
+  <TargetTemplateGUID>CF8E0A05-86D7-4420-AF4A-7BECA4F84A00</TargetTemplateGUID>
+  <TargetTemplateHumanId>targetTempNev</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>targetTempNev</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TARGETTEMPNEV</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>102</AssociationPathId>
+  <AssociationPathGUID>C03B266C-FFF8-408E-A6D5-B77EC4A9BDD7</AssociationPathGUID>
+  <AssociationPathHumanId>assPathNev</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>assPathNev</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>ASSPATHNEV</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

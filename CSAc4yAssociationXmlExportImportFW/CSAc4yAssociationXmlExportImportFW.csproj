@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CD241F5F-B232-4F7D-A243-8D312BBBB41A}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
     <RootNamespace>CSAc4yAssociationXmlExportImportFW</RootNamespace>
     <AssemblyName>CSAc4yAssociationXmlExportImportFW</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
@@ -44,6 +44,9 @@
     </Reference>
     <Reference Include="CSAc4yServiceFW">
       <HintPath>..\..\..\..\..\..\..\..\library\LPCsharp\CSAc4yServiceFW.dll</HintPath>
+    </Reference>
+    <Reference Include="CSAc4yUtilityFW">
+      <HintPath>..\..\..\..\..\..\..\..\library\LPCsharp\CSAc4yUtilityFW.dll</HintPath>
     </Reference>
     <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>

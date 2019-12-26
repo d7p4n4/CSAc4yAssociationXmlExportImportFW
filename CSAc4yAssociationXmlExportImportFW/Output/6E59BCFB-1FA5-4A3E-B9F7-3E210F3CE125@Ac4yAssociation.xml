@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>357</Id>
+  <GUID>6E59BCFB-1FA5-4A3E-B9F7-3E210F3CE125</GUID>
+  <OriginId>92</OriginId>
+  <OriginGUID>D9009CE0-E5FE-4238-8A58-BF43BEAA88A4</OriginGUID>
+  <OriginHumanId>Teszt modul</OriginHumanId>
+  <OriginPublicHumanId>Teszt modul</OriginPublicHumanId>
+  <OriginSimpledHumanId>TESZTMODUL</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>33</OriginTemplateId>
+  <OriginTemplateGUID>50502AD7-2BE8-4126-9DEF-2E85728CAD27</OriginTemplateGUID>
+  <OriginTemplateHumanId>modul</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>modul</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>MODUL</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>394</TargetId>
+  <TargetGUID>BFE784FD-0049-488A-967C-EE89470B989F</TargetGUID>
+  <TargetHumanId>Tor_Telefonos</TargetHumanId>
+  <TargetPublicHumanId>Tor_Telefonos</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORTELEFONOS</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>19</TargetTemplateId>
+  <TargetTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARAS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>183</AssociationPathId>
+  <AssociationPathGUID>EA2FCEFA-32BE-4246-A13E-EC89390BF770</AssociationPathGUID>
+  <AssociationPathHumanId>Modul.tárolt eljárás</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>tárolt eljárás</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>MODUL.TAROLTELJARAS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>4</OrderNumber>
+</Ac4yAssociation>

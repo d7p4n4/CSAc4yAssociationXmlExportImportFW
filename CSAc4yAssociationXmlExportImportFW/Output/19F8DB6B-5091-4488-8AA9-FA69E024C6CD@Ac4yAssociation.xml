@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>795</Id>
+  <GUID>19F8DB6B-5091-4488-8AA9-FA69E024C6CD</GUID>
+  <OriginId>88</OriginId>
+  <OriginGUID>EAA07158-4A25-4090-9F21-C7F8B528C0E6</OriginGUID>
+  <OriginHumanId>Ugy_Kezeles</OriginHumanId>
+  <OriginPublicHumanId>Ugy_Kezeles</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYKEZELES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1229</TargetId>
+  <TargetGUID>2FC812C9-43B9-408A-A68C-263AF3C864D6</TargetGUID>
+  <TargetHumanId>Ugy_Kezeles.Cib fióklista lekérdezése</TargetHumanId>
+  <TargetPublicHumanId>Cib fióklista lekérdezése</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYKEZELES.CIBFIOKLISTALEKERDEZESE</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1058</TargetTemplateId>
+  <TargetTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TargetTemplateGUID>
+  <TargetTemplateHumanId>Metódus</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Metódus</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>METODUS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1060</AssociationPathId>
+  <AssociationPathGUID>F0ABAA98-B0C2-42E1-90F5-D5E4FEEF04E7</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.metódus</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>metódus</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.METODUS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>1</OrderNumber>
+</Ac4yAssociation>

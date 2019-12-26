@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>370</Id>
+  <GUID>87588F6D-FCA5-43F4-9E32-A0E8A570F0F9</GUID>
+  <OriginId>1030</OriginId>
+  <OriginGUID>5C03BA04-A5D4-41BD-97AE-48D508B88959</OriginGUID>
+  <OriginHumanId>Kis.Éva</OriginHumanId>
+  <OriginPublicHumanId>Éva</OriginPublicHumanId>
+  <OriginSimpledHumanId>KIS.EVA</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>6</OriginTemplateId>
+  <OriginTemplateGUID>0328D895-2397-4F18-B6B8-ECCC43E6ADF4</OriginTemplateGUID>
+  <OriginTemplateHumanId>Tanuló</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>Tanuló</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TANULO</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1032</TargetId>
+  <TargetGUID>A2C7C552-8034-47D9-BC3B-86F4F4D39D1C</TargetGUID>
+  <TargetHumanId>Angol.Közép</TargetHumanId>
+  <TargetPublicHumanId>Közép</TargetPublicHumanId>
+  <TargetSimpledHumanId>ANGOL.KOZEP</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1031</TargetTemplateId>
+  <TargetTemplateGUID>6A251343-8C81-4084-8E56-16E645CC6C0D</TargetTemplateGUID>
+  <TargetTemplateHumanId>nyelv</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>nyelv</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>NYELV</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1036</AssociationPathId>
+  <AssociationPathGUID>110FBAB9-593C-46D4-BAB2-7E88538FABFC</AssociationPathGUID>
+  <AssociationPathHumanId>tanuló.nyelv</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>nyelv</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TANULO.NYELV</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

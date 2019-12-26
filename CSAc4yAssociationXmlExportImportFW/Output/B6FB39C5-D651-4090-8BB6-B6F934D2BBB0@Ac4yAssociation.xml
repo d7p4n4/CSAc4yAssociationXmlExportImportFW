@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>780</Id>
+  <GUID>B6FB39C5-D651-4090-8BB6-B6F934D2BBB0</GUID>
+  <OriginId>536</OriginId>
+  <OriginGUID>E0D682AC-09AB-47F7-B00C-A60B25417E1F</OriginGUID>
+  <OriginHumanId>Tor_AtvilagitasRogzites</OriginHumanId>
+  <OriginPublicHumanId>Tor_AtvilagitasRogzites</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORATVILAGITASROGZITES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1108</TargetId>
+  <TargetGUID>68BA62CF-1D27-483C-9A90-9F704886A06C</TargetGUID>
+  <TargetHumanId>Tor_AtvilagitasRogzites.SELECT_TAG</TargetHumanId>
+  <TargetPublicHumanId>SELECT_TAG</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORATVILAGITASROGZITES.SELECTTAG</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1066</TargetTemplateId>
+  <TargetTemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TargetTemplateGUID>
+  <TargetTemplateHumanId>Muvelet</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Muvelet</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>MUVELET</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1117</AssociationPathId>
+  <AssociationPathGUID>2C33183F-5E29-428C-B434-D81952CEF438</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.muvelet</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>muvelet</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.MUVELET</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>4</OrderNumber>
+</Ac4yAssociation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>766</Id>
+  <GUID>2B0CAD6E-3205-4B27-BFB3-34B647FAAADE</GUID>
+  <OriginId>497</OriginId>
+  <OriginGUID>B9F735D3-541D-4D98-A06B-FDEB3F8EB9C8</OriginGUID>
+  <OriginHumanId>Tor_AtvilagitasKapcsolat</OriginHumanId>
+  <OriginPublicHumanId>Tor_AtvilagitasKapcsolat</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORATVILAGITASKAPCSOLAT</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1217</TargetId>
+  <TargetGUID>ECC9E1FE-4FD3-46A5-9635-920C58D1D72C</TargetGUID>
+  <TargetHumanId>Tor_AtvilagitasKapcsolat.Tag kiválasztás azonosító alapján</TargetHumanId>
+  <TargetPublicHumanId>Tag kiválasztás azonosító alapján</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORATVILAGITASKAPCSOLAT.TAGKIVALASZTASAZONOSITOALAPJAN</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1058</TargetTemplateId>
+  <TargetTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TargetTemplateGUID>
+  <TargetTemplateHumanId>Metódus</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Metódus</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>METODUS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1060</AssociationPathId>
+  <AssociationPathGUID>F0ABAA98-B0C2-42E1-90F5-D5E4FEEF04E7</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.metódus</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>metódus</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.METODUS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>8</OrderNumber>
+</Ac4yAssociation>

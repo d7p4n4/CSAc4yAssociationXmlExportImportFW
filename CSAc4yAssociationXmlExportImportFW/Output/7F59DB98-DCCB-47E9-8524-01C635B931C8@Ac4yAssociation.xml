@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>336</Id>
+  <GUID>7F59DB98-DCCB-47E9-8524-01C635B931C8</GUID>
+  <OriginId>1019</OriginId>
+  <OriginGUID>7C0442EE-67F0-4DF6-9150-1373ADBAF66A</OriginGUID>
+  <OriginHumanId>a2</OriginHumanId>
+  <OriginPublicHumanId>a2</OriginPublicHumanId>
+  <OriginSimpledHumanId>A2</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>1014</OriginTemplateId>
+  <OriginTemplateGUID>C2EBACE3-E666-41B5-97EB-B40142ADFA3A</OriginTemplateGUID>
+  <OriginTemplateHumanId>m</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>m</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>M</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1017</TargetId>
+  <TargetGUID>81ECB30D-83D9-4404-BAB7-D8B1F8481D6A</TargetGUID>
+  <TargetHumanId>b</TargetHumanId>
+  <TargetPublicHumanId>b</TargetPublicHumanId>
+  <TargetSimpledHumanId>B</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1016</TargetTemplateId>
+  <TargetTemplateGUID>4F577029-6EBA-4DF9-8103-28CF15B760A8</TargetTemplateGUID>
+  <TargetTemplateHumanId>t</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>t</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>T</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1018</AssociationPathId>
+  <AssociationPathGUID>3ABE805C-C8E1-4001-86CE-D13EB3803463</AssociationPathGUID>
+  <AssociationPathHumanId>m.t</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>t</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>M.T</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

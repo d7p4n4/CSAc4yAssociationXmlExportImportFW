@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1269</Id>
+  <GUID>0A3747FF-BC80-4304-983B-0D84C85CAD7E</GUID>
+  <HumanId>Ugy_Kezeles.@lUgyHoldAZ</HumanId>
+  <PublicHumanId>@lUgyHoldAZ</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.LUGYHOLDAZ</SimpledHumanId>
+  <TemplateId>111</TemplateId>
+  <TemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TemplateGUID>
+  <TemplateHumanId>tárolt eljárás argumentum</TemplateHumanId>
+  <TemplatePublicHumanId>tárolt eljárás argumentum</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TemplateSimpledHumanId>
+  <AssociationId>842</AssociationId>
+  <AssociationGUID>97216DD7-D122-4125-BA77-BFA628C09C3B</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>

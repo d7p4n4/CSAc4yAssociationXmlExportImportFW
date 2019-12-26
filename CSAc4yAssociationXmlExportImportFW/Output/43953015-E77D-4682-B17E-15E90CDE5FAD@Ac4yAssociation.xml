@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>752</Id>
+  <GUID>43953015-E77D-4682-B17E-15E90CDE5FAD</GUID>
+  <OriginId>497</OriginId>
+  <OriginGUID>B9F735D3-541D-4D98-A06B-FDEB3F8EB9C8</OriginGUID>
+  <OriginHumanId>Tor_AtvilagitasKapcsolat</OriginHumanId>
+  <OriginPublicHumanId>Tor_AtvilagitasKapcsolat</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORATVILAGITASKAPCSOLAT</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1210</TargetId>
+  <TargetGUID>6CF78F0E-1637-4C9C-974D-ED6ED46F7981</TargetGUID>
+  <TargetHumanId>Tor_AtvilagitasKapcsolat.Kapcsolatfelvétel rögzítése</TargetHumanId>
+  <TargetPublicHumanId>Kapcsolatfelvétel rögzítése</TargetPublicHumanId>
+  <TargetSimpledHumanId>TORATVILAGITASKAPCSOLAT.KAPCSOLATFELVETELROGZITESE</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1058</TargetTemplateId>
+  <TargetTemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TargetTemplateGUID>
+  <TargetTemplateHumanId>Metódus</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Metódus</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>METODUS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1060</AssociationPathId>
+  <AssociationPathGUID>F0ABAA98-B0C2-42E1-90F5-D5E4FEEF04E7</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.metódus</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>metódus</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.METODUS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>1</OrderNumber>
+</Ac4yAssociation>

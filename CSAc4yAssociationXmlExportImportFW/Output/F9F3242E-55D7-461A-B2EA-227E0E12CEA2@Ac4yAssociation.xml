@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>806</Id>
+  <GUID>F9F3242E-55D7-461A-B2EA-227E0E12CEA2</GUID>
+  <OriginId>88</OriginId>
+  <OriginGUID>EAA07158-4A25-4090-9F21-C7F8B528C0E6</OriginGUID>
+  <OriginHumanId>Ugy_Kezeles</OriginHumanId>
+  <OriginPublicHumanId>Ugy_Kezeles</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYKEZELES</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1124</TargetId>
+  <TargetGUID>BEBD221B-B178-4F57-8B0C-6B15A4940260</TargetGUID>
+  <TargetHumanId>Ugy_Kezeles.SZEMELY_UGYNOK</TargetHumanId>
+  <TargetPublicHumanId>SZEMELY_UGYNOK</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYKEZELES.SZEMELYUGYNOK</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>1066</TargetTemplateId>
+  <TargetTemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TargetTemplateGUID>
+  <TargetTemplateHumanId>Muvelet</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>Muvelet</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>MUVELET</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>1117</AssociationPathId>
+  <AssociationPathGUID>2C33183F-5E29-428C-B434-D81952CEF438</AssociationPathGUID>
+  <AssociationPathHumanId>Tárolt eljárás.muvelet</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>muvelet</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.MUVELET</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>7</OrderNumber>
+</Ac4yAssociation>

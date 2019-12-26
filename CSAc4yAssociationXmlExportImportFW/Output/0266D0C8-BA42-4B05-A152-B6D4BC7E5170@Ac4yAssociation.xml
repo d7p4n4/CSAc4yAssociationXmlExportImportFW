@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>365</Id>
+  <GUID>0266D0C8-BA42-4B05-A152-B6D4BC7E5170</GUID>
+  <OriginId>110</OriginId>
+  <OriginGUID>5BC14D08-E14F-4FAE-8C55-99E7713C4638</OriginGUID>
+  <OriginHumanId>Törzskarbantartás</OriginHumanId>
+  <OriginPublicHumanId>Törzskarbantartás</OriginPublicHumanId>
+  <OriginSimpledHumanId>TORZSKARBANTARTAS</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>33</OriginTemplateId>
+  <OriginTemplateGUID>50502AD7-2BE8-4126-9DEF-2E85728CAD27</OriginTemplateGUID>
+  <OriginTemplateHumanId>modul</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>modul</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>MODUL</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>386</TargetId>
+  <TargetGUID>03E5FFE0-9BC1-4047-940D-581B5B2280D6</TargetGUID>
+  <TargetHumanId>Ko_BtchImp04_Plane</TargetHumanId>
+  <TargetPublicHumanId>Ko_BtchImp04_Plane</TargetPublicHumanId>
+  <TargetSimpledHumanId>KOBTCHIMP04PLANE</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>19</TargetTemplateId>
+  <TargetTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARAS</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>183</AssociationPathId>
+  <AssociationPathGUID>EA2FCEFA-32BE-4246-A13E-EC89390BF770</AssociationPathGUID>
+  <AssociationPathHumanId>Modul.tárolt eljárás</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>tárolt eljárás</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>MODUL.TAROLTELJARAS</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociation>

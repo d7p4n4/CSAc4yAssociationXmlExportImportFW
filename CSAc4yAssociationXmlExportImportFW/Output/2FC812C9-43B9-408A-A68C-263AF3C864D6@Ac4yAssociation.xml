@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1229</Id>
+  <GUID>2FC812C9-43B9-408A-A68C-263AF3C864D6</GUID>
+  <HumanId>Ugy_Kezeles.Cib fióklista lekérdezése</HumanId>
+  <PublicHumanId>Cib fióklista lekérdezése</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.CIBFIOKLISTALEKERDEZESE</SimpledHumanId>
+  <TemplateId>1058</TemplateId>
+  <TemplateGUID>70F207BD-085C-4FA1-BCA1-D32515E01062</TemplateGUID>
+  <TemplateHumanId>Metódus</TemplateHumanId>
+  <TemplatePublicHumanId>Metódus</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>METODUS</TemplateSimpledHumanId>
+  <AssociationId>795</AssociationId>
+  <AssociationGUID>19F8DB6B-5091-4488-8AA9-FA69E024C6CD</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>

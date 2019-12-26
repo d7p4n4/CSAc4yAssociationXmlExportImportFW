@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>859</Id>
+  <GUID>5E83A46A-47CC-4D87-A3D9-F8FB358A9574</GUID>
+  <OriginId>89</OriginId>
+  <OriginGUID>F365A16E-9F34-43E0-A7EF-BBB9FB7891F6</OriginGUID>
+  <OriginHumanId>Ugy_Lista</OriginHumanId>
+  <OriginPublicHumanId>Ugy_Lista</OriginPublicHumanId>
+  <OriginSimpledHumanId>UGYLISTA</OriginSimpledHumanId>
+  <OriginNamespace />
+  <OriginTemplateId>19</OriginTemplateId>
+  <OriginTemplateGUID>40657D3E-0553-41DB-ACE1-B0B4F9432B77</OriginTemplateGUID>
+  <OriginTemplateHumanId>tárolt eljárás</OriginTemplateHumanId>
+  <OriginTemplatePublicHumanId>tárolt eljárás</OriginTemplatePublicHumanId>
+  <OriginTemplateSimpledHumanId>TAROLTELJARAS</OriginTemplateSimpledHumanId>
+  <OriginTemplateNamespace />
+  <TargetId>1286</TargetId>
+  <TargetGUID>186A2EC5-5EA2-41AB-B334-DD212DE4A9A5</TargetGUID>
+  <TargetHumanId>Ugy_Lista.@holdingtipus</TargetHumanId>
+  <TargetPublicHumanId>@holdingtipus</TargetPublicHumanId>
+  <TargetSimpledHumanId>UGYLISTA.HOLDINGTIPUS</TargetSimpledHumanId>
+  <TargetNamespace />
+  <TargetTemplateId>111</TargetTemplateId>
+  <TargetTemplateGUID>4CAAB60A-0246-4AA1-9C81-8E12EF3521AB</TargetTemplateGUID>
+  <TargetTemplateHumanId>tárolt eljárás argumentum</TargetTemplateHumanId>
+  <TargetTemplatePublicHumanId>tárolt eljárás argumentum</TargetTemplatePublicHumanId>
+  <TargetTemplateSimpledHumanId>TAROLTELJARASARGUMENTUM</TargetTemplateSimpledHumanId>
+  <TargetTemplateNamespace />
+  <AssociationPathId>113</AssociationPathId>
+  <AssociationPathGUID>35EEAD6B-024C-4BD3-B114-43F5D2756BDA</AssociationPathGUID>
+  <AssociationPathHumanId>tárolt eljárás.Argumentum</AssociationPathHumanId>
+  <AssociationPathPublicHumanId>Argumentum</AssociationPathPublicHumanId>
+  <AssociationPathSimpledHumanId>TAROLTELJARAS.ARGUMENTUM</AssociationPathSimpledHumanId>
+  <AssociationPathNamespace />
+  <ActualityId>0</ActualityId>
+  <OrderNumber>11</OrderNumber>
+</Ac4yAssociation>

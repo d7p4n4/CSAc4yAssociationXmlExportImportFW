@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Ac4yAssociationTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1124</Id>
+  <GUID>BEBD221B-B178-4F57-8B0C-6B15A4940260</GUID>
+  <HumanId>Ugy_Kezeles.SZEMELY_UGYNOK</HumanId>
+  <PublicHumanId>SZEMELY_UGYNOK</PublicHumanId>
+  <SimpledHumanId>UGYKEZELES.SZEMELYUGYNOK</SimpledHumanId>
+  <TemplateId>1066</TemplateId>
+  <TemplateGUID>F3FE1C73-B5A3-4E4B-8ACC-742A6BCCFAC9</TemplateGUID>
+  <TemplateHumanId>Muvelet</TemplateHumanId>
+  <TemplatePublicHumanId>Muvelet</TemplatePublicHumanId>
+  <TemplateSimpledHumanId>MUVELET</TemplateSimpledHumanId>
+  <AssociationId>806</AssociationId>
+  <AssociationGUID>F9F3242E-55D7-461A-B2EA-227E0E12CEA2</AssociationGUID>
+  <OrderNumber>0</OrderNumber>
+</Ac4yAssociationTarget>
